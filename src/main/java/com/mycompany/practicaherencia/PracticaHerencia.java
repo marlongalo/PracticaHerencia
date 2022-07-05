@@ -22,5 +22,7 @@ public class PracticaHerencia {
         
         ingles.imprimirInformacion();
         introduccion.imprimirInformacion();
+        
+        System.out.println("Trabajando en rama development para luego fusionarlo con rama master");
     }
 }
